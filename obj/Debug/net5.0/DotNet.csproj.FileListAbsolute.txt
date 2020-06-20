@@ -1,0 +1,13 @@
+/home/jfsuportedeti/DotNet/bin/Debug/net5.0/DotNet
+/home/jfsuportedeti/DotNet/bin/Debug/net5.0/DotNet.deps.json
+/home/jfsuportedeti/DotNet/bin/Debug/net5.0/DotNet.runtimeconfig.json
+/home/jfsuportedeti/DotNet/bin/Debug/net5.0/DotNet.runtimeconfig.dev.json
+/home/jfsuportedeti/DotNet/bin/Debug/net5.0/DotNet.dll
+/home/jfsuportedeti/DotNet/bin/Debug/net5.0/DotNet.pdb
+/home/jfsuportedeti/DotNet/obj/Debug/net5.0/DotNet.csprojAssemblyReference.cache
+/home/jfsuportedeti/DotNet/obj/Debug/net5.0/DotNet.AssemblyInfoInputs.cache
+/home/jfsuportedeti/DotNet/obj/Debug/net5.0/DotNet.AssemblyInfo.cs
+/home/jfsuportedeti/DotNet/obj/Debug/net5.0/DotNet.csproj.CoreCompileInputs.cache
+/home/jfsuportedeti/DotNet/obj/Debug/net5.0/DotNet.dll
+/home/jfsuportedeti/DotNet/obj/Debug/net5.0/DotNet.pdb
+/home/jfsuportedeti/DotNet/obj/Debug/net5.0/DotNet.genruntimeconfig.cache
