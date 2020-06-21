@@ -1,0 +1,13 @@
+/home/jfsuportedeti/DotNet/Revisao/bin/Debug/net5.0/Revisao
+/home/jfsuportedeti/DotNet/Revisao/bin/Debug/net5.0/Revisao.deps.json
+/home/jfsuportedeti/DotNet/Revisao/bin/Debug/net5.0/Revisao.runtimeconfig.json
+/home/jfsuportedeti/DotNet/Revisao/bin/Debug/net5.0/Revisao.runtimeconfig.dev.json
+/home/jfsuportedeti/DotNet/Revisao/bin/Debug/net5.0/Revisao.dll
+/home/jfsuportedeti/DotNet/Revisao/bin/Debug/net5.0/Revisao.pdb
+/home/jfsuportedeti/DotNet/Revisao/obj/Debug/net5.0/Revisao.csprojAssemblyReference.cache
+/home/jfsuportedeti/DotNet/Revisao/obj/Debug/net5.0/Revisao.AssemblyInfoInputs.cache
+/home/jfsuportedeti/DotNet/Revisao/obj/Debug/net5.0/Revisao.AssemblyInfo.cs
+/home/jfsuportedeti/DotNet/Revisao/obj/Debug/net5.0/Revisao.csproj.CoreCompileInputs.cache
+/home/jfsuportedeti/DotNet/Revisao/obj/Debug/net5.0/Revisao.dll
+/home/jfsuportedeti/DotNet/Revisao/obj/Debug/net5.0/Revisao.pdb
+/home/jfsuportedeti/DotNet/Revisao/obj/Debug/net5.0/Revisao.genruntimeconfig.cache
